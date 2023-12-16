@@ -1,4 +1,4 @@
-<h1>SURVEY FORM TASK </h1>
+<h1 align="center">SURVEY FORM TASK </h1>
 ⭐ Survey Form with Bootstrap
 
 <p align="center">
