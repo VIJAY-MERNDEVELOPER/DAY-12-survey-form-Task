@@ -2,7 +2,7 @@
 ⭐ Survey Form with Bootstrap
 
 <p align="center">
-<img src="/Assert/survey-form.png" width="250px" height="300px" alt="Selva">
+<img src="/Assert/survey-form.png" width="400px" height="450px" alt="Selva">
 <br>
   <br>
 👆<a href="https://surveyform-task.netlify.app/">Survey-Form</a>
